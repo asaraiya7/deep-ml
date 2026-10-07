@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:12:40.241Z",
+  "generated_at": "2026-10-07T13:31:57.591Z",
   "items": {
     "problem:36": {
       "kind": "problem",
@@ -115,6 +115,19 @@
       "path": "problems/0880-create-a-float-tensor-from-a-python-list",
       "first_solved_at": "2026-10-07T12:12:39.604Z",
       "last_pushed_at": "2026-10-07T12:12:39.604Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:881": {
+      "kind": "problem",
+      "id": "881",
+      "title": "Reshape and Transpose a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/881",
+      "path": "problems/0881-reshape-and-transpose-a-tensor",
+      "first_solved_at": "2026-10-07T13:31:56.642Z",
+      "last_pushed_at": "2026-10-07T13:31:56.642Z",
       "language": "python",
       "lines": 7
     }
