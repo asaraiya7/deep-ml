@@ -9,25 +9,13 @@ def normalize(text):
     return text
 
 def exact_match_score(predictions: list[str], references: list[str]) -> float:
-    """
-    Calculate the exact match score between predictions and references.
-    
-    Args:
-        predictions: List of predicted strings
-        references: List of reference (ground truth) strings
-    
-    Returns:
-        Exact match score as a float between 0 and 1
-    """
-    # Handle empty lists cases 
-    if not len(predictions) or not len(references):
-        return 0
+    if len(predictions) != len(references):
+        raise ValueError("Predictions and references must have the same length")
 
-    # Normalize strings for exact match score calc.  
-    preds_np = np.array([normalize(s) for s in predictions])
-    refs_np = np.array([normalize(s) for s in references])
+    if not predictions:
+        return 0.0
 
-    # Ensure exactly same length 
-    assert len(predictions) == len(references)
-
-    return np.sum(preds_np == refs_np) / len(references)
+    return sum(
+        normalize(pred) == normalize(ref)
+        for pred, ref in zip(predictions, references)
+    ) / len(predictions)
