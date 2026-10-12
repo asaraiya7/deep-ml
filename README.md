@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 16 problems · 0 labs · 0 math
+**17** solved · 17 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Exact Match Score with Normalization](https://www.deep-ml.com/problems/325) | easy | 2026-10-12 | [solution](problems/0325-exact-match-score-with-normalization) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-10-07 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-10-04 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
+| [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-10-12 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-10-04 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-10-04 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-10-05 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
