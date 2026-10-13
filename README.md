@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 23 problems · 0 labs · 0 math
+**24** solved · 24 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -35,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mean Pooling Over Sequence Embeddings for Classification](https://www.deep-ml.com/problems/1063) | easy | 2026-10-12 | [solution](problems/1063-mean-pooling-over-sequence-embeddings-for-classification) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-10-07 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-10-13 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
+| [Run One Training Step: Forward, Loss, Backward, Optimizer](https://www.deep-ml.com/problems/886) | easy | 2026-10-13 | [solution](problems/0886-run-one-training-step-forward-loss-backward-optimizer) |
 
 ---
 
