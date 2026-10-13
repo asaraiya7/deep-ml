@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**26** solved · 26 problems · 0 labs · 0 math
+**27** solved · 27 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2026-10-12 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-10-13 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Conv2d Output Shape](https://www.deep-ml.com/problems/1232) | easy | 2026-10-13 | [solution](problems/1232-conv2d-output-shape) |
+| [Count Parameters of a Sequential Model](https://www.deep-ml.com/problems/1218) | easy | 2026-10-13 | [solution](problems/1218-count-parameters-of-a-sequential-model) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-10-07 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Exact Match Score with Normalization](https://www.deep-ml.com/problems/325) | easy | 2026-10-12 | [solution](problems/0325-exact-match-score-with-normalization) |
 | [Gradient of a Square with Autograd](https://www.deep-ml.com/problems/1222) | easy | 2026-10-13 | [solution](problems/1222-gradient-of-a-square-with-autograd) |
