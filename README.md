@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 24 problems · 0 labs · 0 math
+**25** solved · 25 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Conv2d Output Shape](https://www.deep-ml.com/problems/1232) | easy | 2026-10-13 | [solution](problems/1232-conv2d-output-shape) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-10-07 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Exact Match Score with Normalization](https://www.deep-ml.com/problems/325) | easy | 2026-10-12 | [solution](problems/0325-exact-match-score-with-normalization) |
+| [Gradient of a Square with Autograd](https://www.deep-ml.com/problems/1222) | easy | 2026-10-13 | [solution](problems/1222-gradient-of-a-square-with-autograd) |
 | [Implement 2D Average Pooling](https://www.deep-ml.com/problems/265) | easy | 2026-10-12 | [solution](problems/0265-implement-2d-average-pooling) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-10-13 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-10-07 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
