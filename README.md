@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 21 problems · 0 labs · 0 math
+**22** solved · 22 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-10-12 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-10-04 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2026-10-12 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
+| [Conv2d Output Shape](https://www.deep-ml.com/problems/1232) | easy | 2026-10-13 | [solution](problems/1232-conv2d-output-shape) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-10-07 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Exact Match Score with Normalization](https://www.deep-ml.com/problems/325) | easy | 2026-10-12 | [solution](problems/0325-exact-match-score-with-normalization) |
 | [Implement 2D Average Pooling](https://www.deep-ml.com/problems/265) | easy | 2026-10-12 | [solution](problems/0265-implement-2d-average-pooling) |
