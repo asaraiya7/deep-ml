@@ -22,6 +22,8 @@ def scaled_dot_product_attention(Q: np.ndarray, K: np.ndarray, V: np.ndarray, ma
     d_k = Q.shape[1]
     attn_scores = (Q @ K.T) / np.sqrt(d_k)
     if mask is not None:
+		# Specifically use negative inf as +ve inf leads to overflow / numerical issues 
+		# We cannot just multipley by 0 as softmax(0) is not 0 
         attn_scores = np.where(mask == 0, -np.inf, attn_scores)
     attn_weights = softmax(attn_scores)
     attn = attn_weights @ V 
