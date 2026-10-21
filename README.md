@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**42** solved · 42 problems · 0 labs · 0 math
+**43** solved · 43 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement ReLU and Leaky ReLU](https://www.deep-ml.com/problems/1226) | easy | 2026-10-13 | [solution](problems/1226-implement-relu-and-leaky-relu) |
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-10-05 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-10-07 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
+| [Learned Positional Embeddings](https://www.deep-ml.com/problems/375) | easy | 2026-10-21 | [solution](problems/0375-learned-positional-embeddings) |
 | [Mean Pooling Over Sequence Embeddings for Classification](https://www.deep-ml.com/problems/1063) | easy | 2026-10-12 | [solution](problems/1063-mean-pooling-over-sequence-embeddings-for-classification) |
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-10-14 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-10-13 | [solution](problems/1234-one-sgd-update-step) |
