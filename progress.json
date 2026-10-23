@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T14:01:16.131Z",
+  "generated_at": "2026-10-23T14:05:10.318Z",
   "items": {
     "problem:36": {
       "kind": "problem",
@@ -686,9 +686,9 @@
       "url": "https://www.deep-ml.com/problems/916",
       "path": "problems/0916-implement-triplet-loss",
       "first_solved_at": "2026-10-23T14:01:15.153Z",
-      "last_pushed_at": "2026-10-23T14:01:15.153Z",
+      "last_pushed_at": "2026-10-23T14:05:07.349Z",
       "language": "python",
-      "lines": 15
+      "lines": 12
     }
   }
 }
