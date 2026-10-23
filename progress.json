@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T13:43:31.786Z",
+  "generated_at": "2026-10-23T14:01:16.131Z",
   "items": {
     "problem:36": {
       "kind": "problem",
@@ -676,6 +676,19 @@
       "last_pushed_at": "2026-10-23T13:43:30.597Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:916": {
+      "kind": "problem",
+      "id": "916",
+      "title": "Implement Triplet Loss",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/916",
+      "path": "problems/0916-implement-triplet-loss",
+      "first_solved_at": "2026-10-23T14:01:15.153Z",
+      "last_pushed_at": "2026-10-23T14:01:15.153Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }

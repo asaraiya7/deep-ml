@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**52** solved · 52 problems · 0 labs · 0 math
+**53** solved · 53 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-10-04 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU and Leaky ReLU](https://www.deep-ml.com/problems/1226) | easy | 2026-10-13 | [solution](problems/1226-implement-relu-and-leaky-relu) |
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-10-05 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
+| [Implement Triplet Loss](https://www.deep-ml.com/problems/916) | easy | 2026-10-23 | [solution](problems/0916-implement-triplet-loss) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-10-07 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [Learned Positional Embeddings](https://www.deep-ml.com/problems/375) | easy | 2026-10-21 | [solution](problems/0375-learned-positional-embeddings) |
 | [Mean Pooling Over Sequence Embeddings for Classification](https://www.deep-ml.com/problems/1063) | easy | 2026-10-12 | [solution](problems/1063-mean-pooling-over-sequence-embeddings-for-classification) |
