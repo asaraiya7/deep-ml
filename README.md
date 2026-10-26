@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**53** solved · 53 problems · 0 labs · 0 math
+**54** solved · 54 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -40,6 +40,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-10-23 | [solution](problems/0901-implement-dropout-from-scratch) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-10-04 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-10-12 | [solution](problems/0114-implement-global-average-pooling) |
+| [Implement LayerNorm from Scratch](https://www.deep-ml.com/problems/908) | easy | 2026-10-26 | [solution](problems/0908-implement-layernorm-from-scratch) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-10-04 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-10-04 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU and Leaky ReLU](https://www.deep-ml.com/problems/1226) | easy | 2026-10-13 | [solution](problems/1226-implement-relu-and-leaky-relu) |
