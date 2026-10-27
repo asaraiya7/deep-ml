@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**60** solved · 60 problems · 0 labs · 0 math
+**61** solved · 61 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -60,6 +60,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simple Self-Attention Without Trainable Weights](https://www.deep-ml.com/problems/955) | easy | 2026-10-16 | [solution](problems/0955-simple-self-attention-without-trainable-weights) |
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-10-14 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Sinusoidal Positional Encoding](https://www.deep-ml.com/problems/906) | easy | 2026-10-21 | [solution](problems/0906-sinusoidal-positional-encoding) |
+| [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-10-27 | [solution](problems/0153-steplr-learning-rate-scheduler) |
 | [BatchNorm1d Forward in Eval Mode](https://www.deep-ml.com/problems/1231) | medium | 2026-10-26 | [solution](problems/1231-batchnorm1d-forward-in-eval-mode) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-10-21 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Dropout in Train vs Eval Mode](https://www.deep-ml.com/problems/1230) | medium | 2026-10-23 | [solution](problems/1230-dropout-in-train-vs-eval-mode) |
