@@ -6,9 +6,7 @@ class StepLRScheduler:
         self.gamma = gamma 
 
     def get_lr(self, epoch):
-        # Calculate and return the learning rate for the given epoch
-        step_num = epoch // self.step_size 
-        if step_num == 0:
-            return self.initial_lr
-        lr = self.initial_lr * (self.gamma ** step_num)
+        steps = epoch // self.step_size
+        decay_factor = self.gamma ** steps
+        lr = self.initial_lr * decay_factor
         return round(lr, 4)
