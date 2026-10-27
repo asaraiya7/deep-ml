@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T12:57:10.709Z",
+  "generated_at": "2026-10-27T13:41:15.337Z",
   "items": {
     "problem:36": {
       "kind": "problem",
@@ -741,6 +741,19 @@
       "last_pushed_at": "2026-10-27T12:57:10.052Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:115": {
+      "kind": "problem",
+      "id": "115",
+      "title": "Implement Batch Normalization for BCHW Input",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/115",
+      "path": "problems/0115-implement-batch-normalization-for-bchw-input",
+      "first_solved_at": "2026-10-27T13:41:14.163Z",
+      "last_pushed_at": "2026-10-27T13:41:14.163Z",
+      "language": "python",
+      "lines": 51
     }
   }
 }
