@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:37:34.069Z",
+  "generated_at": "2026-10-30T12:48:31.010Z",
   "items": {
     "problem:36": {
       "kind": "problem",
@@ -910,6 +910,19 @@
       "last_pushed_at": "2026-10-30T12:37:29.208Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:77": {
+      "kind": "problem",
+      "id": "77",
+      "title": "Calculate Performance Metrics for a Classification Model",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/77",
+      "path": "problems/0077-calculate-performance-metrics-for-a-classification-model",
+      "first_solved_at": "2026-10-30T12:48:30.273Z",
+      "last_pushed_at": "2026-10-30T12:48:30.273Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
