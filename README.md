@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**67** solved · 67 problems · 0 labs · 0 math
+**68** solved · 68 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -75,6 +75,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-10-26 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
 | [Implement Gated Attention](https://www.deep-ml.com/problems/271) | medium | 2026-10-21 | [solution](problems/0271-implement-gated-attention) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-10-21 | [solution](problems/0053-implement-self-attention-mechanism) |
+| [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-30 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-10-27 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-10-27 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-10-14 | [solution](problems/1225-two-layer-mlp-forward-pass) |
