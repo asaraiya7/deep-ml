@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T10:37:05.711Z",
+  "generated_at": "2026-10-30T11:51:46.614Z",
   "items": {
     "problem:36": {
       "kind": "problem",
@@ -858,6 +858,19 @@
       "last_pushed_at": "2026-10-30T10:37:04.890Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-10-30T11:51:45.913Z",
+      "last_pushed_at": "2026-10-30T11:51:45.913Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
