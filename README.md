@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**65** solved · 65 problems · 0 labs · 0 math
+**66** solved · 66 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -51,6 +51,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Triplet Loss](https://www.deep-ml.com/problems/916) | easy | 2026-10-23 | [solution](problems/0916-implement-triplet-loss) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-10-07 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [Learned Positional Embeddings](https://www.deep-ml.com/problems/375) | easy | 2026-10-21 | [solution](problems/0375-learned-positional-embeddings) |
+| [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-10-30 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Learning Rate Decay](https://www.deep-ml.com/problems/377) | easy | 2026-10-27 | [solution](problems/0377-linear-learning-rate-decay) |
 | [Mean Pooling Over Sequence Embeddings for Classification](https://www.deep-ml.com/problems/1063) | easy | 2026-10-12 | [solution](problems/1063-mean-pooling-over-sequence-embeddings-for-classification) |
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-10-14 | [solution](problems/1228-mean-squared-error-from-scratch) |
