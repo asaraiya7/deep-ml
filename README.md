@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**71** solved · 71 problems · 0 labs · 0 math
+**72** solved · 72 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -64,6 +64,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Save and Load Model Weights with state_dict](https://www.deep-ml.com/problems/888) | easy | 2026-10-23 | [solution](problems/0888-save-and-load-model-weights-with-state-dict) |
 | [Scale Attention Scores by sqrt(d_k)](https://www.deep-ml.com/problems/963) | easy | 2026-10-16 | [solution](problems/0963-scale-attention-scores-by-sqrt-d-k) |
 | [Simple Self-Attention Without Trainable Weights](https://www.deep-ml.com/problems/955) | easy | 2026-10-16 | [solution](problems/0955-simple-self-attention-without-trainable-weights) |
+| [Simple Word Tokenizer Encode and Decode](https://www.deep-ml.com/problems/942) | easy | 2026-11-04 | [solution](problems/0942-simple-word-tokenizer-encode-and-decode) |
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-10-14 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Sinusoidal Positional Encoding](https://www.deep-ml.com/problems/906) | easy | 2026-10-21 | [solution](problems/0906-sinusoidal-positional-encoding) |
 | [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-10-27 | [solution](problems/0153-steplr-learning-rate-scheduler) |
