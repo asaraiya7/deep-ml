@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**73** solved · 73 problems · 0 labs · 0 math
+**74** solved · 74 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -80,6 +80,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gated Attention](https://www.deep-ml.com/problems/271) | medium | 2026-10-21 | [solution](problems/0271-implement-gated-attention) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-10-30 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-10-21 | [solution](problems/0053-implement-self-attention-mechanism) |
+| [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-11-25 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-30 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-10-27 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-10-27 | [solution](problems/0041-simple-convolutional-2d-layer) |
